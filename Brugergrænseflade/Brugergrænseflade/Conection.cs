@@ -11,7 +11,7 @@ namespace Brugergrænseflade
     {
         public void SqlAdgang (string strconn,SqlConnection conn)
         {
-            
+            //hej
              strconn = @"hej med dig ;)";
         }
             
