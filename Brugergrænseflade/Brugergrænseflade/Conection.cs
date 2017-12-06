@@ -11,7 +11,7 @@ namespace Brugergrænseflade
     {
         public void SqlAdgang (string strconn,SqlConnection conn)
         {
-            // Super kode 6
+            // Super kode 4
              strconn = @"hej med dig ;)";
         }
             
